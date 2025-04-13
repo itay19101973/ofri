@@ -1,0 +1,2 @@
+public class ofri1 {
+}
